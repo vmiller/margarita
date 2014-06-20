@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from flask import Flask
 from flask import jsonify, render_template, redirect
 from flask import request, Response
